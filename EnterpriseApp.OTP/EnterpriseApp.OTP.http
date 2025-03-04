@@ -1,0 +1,6 @@
+@EnterpriseApp.OTP_HostAddress = http://localhost:5183
+
+GET {{EnterpriseApp.OTP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

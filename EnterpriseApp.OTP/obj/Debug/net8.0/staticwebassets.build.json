@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4WThusymT3X9pNK0TZmmePxyDLP8mqxmDl8ekVu/fok=",
+  "Source": "EnterpriseApp.OTP",
+  "BasePath": "_content/EnterpriseApp.OTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypXjxlCvCF8=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\EnterpriseApp.OTP\\EnterpriseApp.OTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\bouncycastle.cryptography\\2.5.0\\bouncycastle.cryptography.2.5.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\mailkit\\4.10.0\\mailkit.4.10.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\mimekit\\4.10.0\\mimekit.4.10.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\swashbuckle.aspnetcore\\7.3.1\\swashbuckle.aspnetcore.7.3.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.3.1\\swashbuckle.aspnetcore.swagger.7.3.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.3.1\\swashbuckle.aspnetcore.swaggergen.7.3.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.3.1\\swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
